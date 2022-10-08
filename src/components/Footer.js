@@ -17,7 +17,7 @@ const Footer = () => {
                 <button onClick={() => openUrl("https://na.op.gg/summoners/na/Spice%20Wolf%20Holo")} className="linkedin icon">
                     <i className="fa-brands fa-linkedin"></i>
                 </button>
-                <button onClick={() => openUrl("https://www.github.com")} className="github icon">
+                <button onClick={() => openUrl("https://github.com/SWHolo")} className="github icon">
                     <i className="fa-brands fa-github"></i>
                 </button>
                 <button onClick={() => openUrl("https://www.youtube.com/watch?v=dQw4w9WgXcQ")} className="youtube icon">
