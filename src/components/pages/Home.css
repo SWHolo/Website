@@ -1,0 +1,32 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  height: 100%;
+  min-height: calc(100vh - 200px);
+}
+
+.greeting {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  font-size: 5rem;
+  height: 100%;
+  width: 80%;
+  margin: 5vh 0;
+}
+
+.introduction {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: black;
+  font-size: 1.5rem;
+  height: 100%;
+  width: 60%;
+  margin: 5vh 0;
+}

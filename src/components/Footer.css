@@ -1,0 +1,40 @@
+.footer {
+  background: linear-gradient(#49e0f4 0%, #5ab3f4 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 0;
+  position: sticky;
+  bottom: 0;
+  height: 120px;
+  width: 100%;
+}
+
+.socials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 20px;
+}
+
+.icon {
+  cursor: pointer;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  margin: 10px 30px;
+}
+
+.gmail,
+.youtube {
+  color: #ff0000;
+}
+
+.linkedin {
+  color: #0077b5;
+}
+
+.github {
+  color: black;
+}
