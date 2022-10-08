@@ -14,7 +14,7 @@ const Footer = () => {
                 <button onClick={() => openGmail()} className="gmail icon">
                     <i className="fa-brands fa-google"></i>
                 </button>
-                <button onClick={() => openUrl("https://na.op.gg/summoners/na/Spice%20Wolf%20Holo")} className="linkedin icon">
+                <button onClick={() => openUrl("https://www.linkedin.com/in/richard-huang-5035891ba/")} className="linkedin icon">
                     <i className="fa-brands fa-linkedin"></i>
                 </button>
                 <button onClick={() => openUrl("https://github.com/SWHolo")} className="github icon">
