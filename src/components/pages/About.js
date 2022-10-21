@@ -34,7 +34,7 @@ function About() {
                 <div className='answer'>
                     I play a variety of card and board games like Magic: the Gathering, Poker, Chess, and Go.
                     I also watch seasonal anime and tech videos, and I'm somewhat of a futurist, hoping for some sort of youth serum before I get too old.
-                    I enjoy Beat Saber, going rock climbing with friends, and trying out all the new Michelin Star and Bib restaurants in Toronto!
+                    I enjoy Beat Saber, trying out new technologies, and eating all the new Michelin Star and Bib restaurants in Toronto!
                 </div>
             </div>
             <div className='section'>

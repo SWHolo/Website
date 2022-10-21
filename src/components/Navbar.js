@@ -8,7 +8,7 @@ function Navbar() {
             <nav className='navbar'>
                 <div className='nav-logo-item'>
                     <Link to='/' className='nav-link'>
-                        Holo's Website!
+                        Richard Huang
                     </Link>
                 </div>
                 <div className='nav-items'>
